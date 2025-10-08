@@ -19,30 +19,30 @@
 
                 <!-- Profile Content -->
                 <div class="col-lg-9 col-md-8">
-                    <ul class="nav nav-tabs" id="profileTab" role="tablist">
+                    <ul class="nav nav-tabs mt-3 mt-md-0" id="profileTab" role="tablist">
                         <li class="nav-item" role="presentation">
                             <button class="nav-link active" id="biodata-tab" data-bs-toggle="tab" data-bs-target="#biodata" type="button" role="tab" aria-controls="biodata" aria-selected="true">
-                                <i class="bi bi-person me-2"></i>Biodata
+                                <i class="bi bi-person me-md-2"></i><span class="d-none d-md-inline">Biodata</span>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="alamat-tab" data-bs-toggle="tab" data-bs-target="#alamat" type="button" role="tab" aria-controls="alamat" aria-selected="false">
-                                <i class="bi bi-house me-2"></i>Alamat
+                                <i class="bi bi-house me-md-2"></i><span class="d-none d-md-inline">Alamat</span>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="keputusan-tab" data-bs-toggle="tab" data-bs-target="#keputusan" type="button" role="tab" aria-controls="keputusan" aria-selected="false">
-                                <i class="bi bi-file-earmark-text me-2"></i>Keputusan
+                                <i class="bi bi-file-earmark-text me-md-2"></i><span class="d-none d-md-inline">Keputusan</span>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="fasilitas-tab" data-bs-toggle="tab" data-bs-target="#fasilitas" type="button" role="tab" aria-controls="fasilitas" aria-selected="false">
-                                <i class="bi bi-building me-2"></i>Fasilitas
+                                <i class="bi bi-building me-md-2"></i><span class="d-none d-md-inline">Fasilitas</span>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="files-tab" data-bs-toggle="tab" data-bs-target="#files" type="button" role="tab" aria-controls="files" aria-selected="false">
-                                <i class="bi bi-folder me-2"></i>Files
+                                <i class="bi bi-folder me-md-2"></i><span class="d-none d-md-inline">Files</span>
                             </button>
                         </li>
                     </ul>
